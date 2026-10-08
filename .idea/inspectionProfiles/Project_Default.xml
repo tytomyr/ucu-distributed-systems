@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="apache-airflow" />
+          <option value="apache-airflow-providers-google" />
+          <option value="apache-airflow-providers-amazon" />
+          <option value="apache-airflow-providers-apache-kafka" />
+          <option value="apache-airflow-providers-postgres" />
+          <option value="confluent-kafka" />
+          <option value="airflow-providers-clickhouse" />
+          <option value="google-cloud-core" />
+          <option value="google-api-core" />
+          <option value="googleapis-common-protos" />
+          <option value="cryptography" />
+          <option value="proto-plus" />
+          <option value="grpcio" />
+          <option value="airflow-exporter" />
+          <option value="celery" />
+          <option value="kombu" />
+          <option value="tornado" />
+          <option value="werkzeug" />
+          <option value="pyspark" />
+          <option value="SQLAlchemy" />
+          <option value="clickhouse-sqlalchemy" />
+          <option value="clickhouse-connect" />
+          <option value="pandas" />
+          <option value="wtforms" />
+          <option value="requests" />
+          <option value="google-auth" />
+          <option value="gspread" />
+          <option value="google-api-python-client" />
+          <option value="sqlparse" />
+          <option value="statsd" />
+          <option value="PyJWT" />
+          <option value="sentry-sdk" />
+          <option value="graypy" />
+          <option value="openpyxl" />
+          <option value="shapely" />
+          <option value="acryl-datahub" />
+          <option value="starlette" />
+          <option value="pydantic" />
+          <option value="boto3" />
+          <option value="botocore" />
+          <option value="python-dateutil" />
+          <option value="dbt-core" />
+          <option value="dbt-clickhouse" />
+          <option value="Telethon" />
+          <option value="airflow-clickhouse-plugin" />
+          <option value="astronomer-cosmos" />
+          <option value="apache-airflow-providers-atlassian-jira" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
